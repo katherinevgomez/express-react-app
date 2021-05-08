@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Stick It",
+        "live": "https://stick-it-full-crud.herokuapp.com/",
+        "git": "https://github.com/katherinevgomez/Stick-It-Full-CRUD",
+        "image": "https://user-images.githubusercontent.com/25256808/115321845-b4582d80-a152-11eb-9aa6-ad819465b9eb.png"
+    },
+    {
+        "name": "Pokedex App",
+        "live": "",
+        "git": "https://github.com/katherinevgomez/Pokedex-App",
+        "image": ""
+    }
+]
